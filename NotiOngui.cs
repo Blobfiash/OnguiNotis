@@ -1,7 +1,7 @@
 ﻿using UnityEngine;
 using System.Collections.Generic;
 
-namespace UnityCheatsGorillaTag.Mods
+namespace Notifications
 {
     public class NotiOngui : MonoBehaviour
     {
